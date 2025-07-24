@@ -2,7 +2,9 @@
 
 欢迎来到我的 GitHub 主页！
 
-我是 **[超级懒的小周](https://github.com/zhoulvbang)**，在北京协和医学院学习公共卫生专业（25-28年），在努力学习数据科学和统计建模中。
+我是 **[超级懒的小周](https://github.com/zhoulvbang)**
+
+目前在北京协和医学院学习公共卫生专业（25-28年），在努力学习数据分析和统计建模中。
 
 - 2020,spring LaTeX
 - 2020,autumn Python
@@ -14,19 +16,19 @@
 
 🎓 **Bachelor degree in Public Affair Management,HuNan University of Chinese Medicine**
 
-📦 正在整理的項目：**[卫生统计学笔记](https://github.com/zhoulvbang/Med-Stat-Notes)**
+📦 正在整理的項目：**[卫生统计学笔记](https://github.com/pumc-zhou/Med-Stat-Notes)**
 
 🔭 **我目前正在使用 R 和 Python 完善我的数据分析项目**
 
 📫 你可以通过电子邮件联系我：**simonzhou01@outlook.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhoulvbang)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pumc-zhou)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhoulvbang)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pumc-zhou)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=zhoulvbang)
+![trophy](https://github-profile-trophy.vercel.app/?username=pumc-zhou)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhoulvbang&theme=react)](https://github.com/zhoulvbang/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pumc-zhou&theme=react)](https://github.com/zhoulvbang/github-readme-activity-graph)
 
 ### 我的技术栈
 
