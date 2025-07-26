@@ -2,7 +2,7 @@
 
 欢迎来到我的 GitHub 主页！
 
-我是 **[超级懒的小周](https://github.com/zhoulvbang)**
+我是 **[超级懒的小周](https://github.com/pumc-zhou)**
 
 目前在北京协和医学院学习公共卫生专业（25-28年），在努力学习数据分析和统计建模中。
 
@@ -28,7 +28,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=pumc-zhou)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pumc-zhou&theme=react)](https://github.com/pumc-zho/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pumc-zhou&theme=react)](https://github.com/pumc-zhou/github-readme-activity-graph)
 
 ### 我的技术栈
 
