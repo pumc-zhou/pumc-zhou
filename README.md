@@ -28,7 +28,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=pumc-zhou)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pumc-zhou&theme=react)](https://github.com/zhoulvbang/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pumc-zhou&theme=react)](https://github.com/pumc-zho/github-readme-activity-graph)
 
 ### 我的技术栈
 
