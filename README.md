@@ -20,7 +20,7 @@
 
 🔭 **我目前正在使用 R 和 Python 完善我的数据分析项目**
 
-📫 你可以通过电子邮件联系我：**simonzhou01@outlook.com**
+📫 你可以通过电子邮件联系我：**pumc.zhou@outlook.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pumc-zhou)
 
