@@ -22,10 +22,6 @@
 
 📫 你可以通过电子邮件联系我：**pumc.zhou@outlook.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pumc-zhou)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pumc-zhou)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=pumc-zhou&theme=onedark)](https://github.com/pumc-zhou/github-profile-trophy)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pumc-zhou&theme=react)](https://github.com/pumc-zhou/github-readme-activity-graph)
